@@ -11,3 +11,7 @@ Mathematics
 
 See more info @ https://cod3v.info/index.php?title=Short_introduction_to_Manim
 
+manim -pql script.py 
+manim -tpql script.py 
+manim -tpql script.py 
+manim -tpqh --format=png script.py 
